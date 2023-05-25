@@ -40,7 +40,7 @@
       * [**bytes()**](https://www.w3schools.com/python/ref_func_bytes.asp)
       * [**bytearray()**](https://www.w3schools.com/python/ref_func_bytearray.asp)
       * [**memoryview()**](https://www.w3schools.com/python/ref_func_memoryview.asp)
-  * [**Built-in data types (examples, mutability) with refs to Python Docs (from presentation)**](files/L11_python_built-in_data_types.py)
+  * [**Built-in data types (examples, mutability) with refs to Python Docs (from presentation)**](Files/L11_python_built-in_data_types.py)
   * [**Built-in Types (Python Docs)**](https://docs.python.org/3/library/stdtypes.html)
   * [**The Null Object (None), of type "NoneType"**](https://docs.python.org/3/library/stdtypes.html#the-null-object)
   * [**type() Function**](https://www.w3schools.com/python/ref_func_type.asp)
@@ -55,7 +55,7 @@
 * Operator precedence:
   * [**Precedence and Associativity of Operators in Python**](https://www.programiz.com/python-programming/precedence-associativity)
   * [**Operator precedence (Python Docs)**](https://docs.python.org/3/reference/expressions.html#operator-summary)
-  * [**Operator precedence examples (from presentation)**](files/L11_operator_precedence_examples.py)
+  * [**Operator precedence examples (from presentation)**](Files/L11_operator_precedence_examples.py)
 * Return value of an assignment operator "=":
   * [The return type of an assignment operator (C, C++)](https://stackoverflow.com/questions/15292892/what-is-return-type-of-assignment-operator)
   * [**The assignment operator does not return a value in Python**](https://stackoverflow.com/questions/4869770/why-does-python-assignment-not-return-a-value)
