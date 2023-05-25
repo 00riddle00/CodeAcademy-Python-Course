@@ -1,5 +1,5 @@
 * [Pseudorandom Numbers vs. True Random Numbers](https://simplicable.com/new/pseudorandom-vs-random)
-* [Lithuanian names in programming (from presentation)](Files/L05_Lithuanian_names.md)
+* [Lithuanian names in Python programming (from presentation)](../LTU_names_in_Python_programming.md)
 * [**Difference between List and Array in Python**](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
 * [**Python Strings Are Arrays**](https://www.w3schools.com/python/gloss_python_strings_are_arrays.asp#:~:text=Like%20many%20other%20popular%20programming,access%20elements%20of%20the%20string)
 * [**Regular Dictionary vs Ordered Dictionary in Python**](https://www.geeksforgeeks.org/regular-dictionary-vs-ordered-dictionary-in-python/)
