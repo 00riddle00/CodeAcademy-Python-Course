@@ -40,7 +40,7 @@
   * [**Operator precedence: see  _==_, _!=_, _is_, _is not_ (Python Docs)**](https://docs.python.org/3/reference/expressions.html#operator-precedence)
   * [**Objects and values (see section 9.10.)**](http://www.openbookproject.net/thinkcs/python/english2e/ch09.html#objects-and-values)
   * [**Equality vs. Identity**](https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/#Equality_vs_identity)
-  * [**Equality vs. Identity examples (from presentation)**](files/L13_equality_vs_identity.py)
+  * [**Equality vs. Identity examples (from presentation)**](Files/L13_equality_vs_identity.py)
   * SyntaxWarning for '_is_':
     * [**Why does Python log a SyntaxWarning for '_is_' with literals?**](https://adamj.eu/tech/2020/01/21/why-does-python-3-8-syntaxwarning-for-is-literal/#:~:text=The%20compiler%20now%20produces%20a,\)%20instead.)
     * [**Python caches integers in the range [-5, 256]**](https://stackoverflow.com/questions/15171695/whats-with-the-integer-cache-maintained-by-the-interpreter)
@@ -73,7 +73,7 @@
   * [**sum()**](https://www.w3schools.com/python/ref_func_sum.asp)
   * type():
     * [**_type()_ function**](https://www.w3schools.com/python/ref_func_type.asp)
-    * [**Examples with _type()_ (from presentation)**](files/L13_type_function_examples.py)
+    * [**Examples with _type()_ (from presentation)**](Files/L13_type_function_examples.py)
   * [**ascii()**](https://www.w3schools.com/python/ref_func_ascii.asp)
   * [**bin()**](https://www.w3schools.com/python/ref_func_bin.asp)
   * [**hex()**](https://www.w3schools.com/python/ref_func_hex.asp)
