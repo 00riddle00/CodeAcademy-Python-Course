@@ -11,12 +11,12 @@
   * [**Visual Overview of Built in Python Data Types**](https://www.openriskmanagement.com/visual-overview-of-built-in-python-data-types/)
 * [**Python Exit Codes**](https://linuxhint.com/python-exit-codes/)
 * Breaking and continuing lines:
-  * [**Python line continuation examples (from presentation)**](files/L12_python_line_continuation.py)
+  * [**Python line continuation examples (from presentation)**](Files/L12_python_line_continuation.py)
   * [**How can I do a line break (line continuation) in Python?**](https://stackoverflow.com/questions/53162/how-can-i-do-a-line-break-line-continuation-in-python)
 * [**Types and classes in Python**](https://stackoverflow.com/questions/4479819/types-and-classes-in-python)
-* [**Tuple, Set, String - mutability, indexing, repeating elements (from presentation)**](files/L12_tuple_set_string.py)
+* [**Tuple, Set, String - mutability, indexing, repeating elements (from presentation)**](Files/L12_tuple_set_string.py)
 * Indexing and slicing of sequence types:
-  * [**Indexing and slicing of list and range (from presentation)**](files/L12_indexing_and_slicing_of_list_and_range.py)
+  * [**Indexing and slicing of list and range (from presentation)**](Files/L12_indexing_and_slicing_of_list_and_range.py)
   * [**What are the default slice indices really?**](https://stackoverflow.com/questions/12521798/what-are-the-default-slice-indices-really)
   * [**Python Docs on indexing and slicing (see the table and it's notes no. 3, 4 and 5 in "Common Sequence Operations")**](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations)
   * The mystery of slicing solved in Stack Overflow:
