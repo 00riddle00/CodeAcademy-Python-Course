@@ -5,7 +5,7 @@
 #### Resources:
 
 * [CAO](https://codeacademy.lt/)
-* [MS Teams](https://www.microsoft.com/microsoft-teams/log-in)
+* [MS Teams](MS_Teams/)
 * [Discord](Discord/)
 
 #### Books used in this course:
