@@ -1,5 +1,5 @@
 * [Pseudorandom Numbers vs. True Random Numbers](https://simplicable.com/new/pseudorandom-vs-random)
-* [Lithuanian names in programming](Files/L05_lithuanian_names.md)
+* [Lithuanian names in programming](Files/L05_Lithuanian_names.md)
 * [**Difference between List and Array in Python**](https://www.geeksforgeeks.org/difference-between-list-and-array-in-python/)
 * [**Python Strings Are Arrays**](https://www.w3schools.com/python/gloss_python_strings_are_arrays.asp#:~:text=Like%20many%20other%20popular%20programming,access%20elements%20of%20the%20string)
 * [**Regular Dictionary vs Ordered Dictionary in Python**](https://www.geeksforgeeks.org/regular-dictionary-vs-ordered-dictionary-in-python/)
@@ -17,5 +17,5 @@
   * [Why numbering should start at zero (by the very well-known computer scientist E. W. Dijkstra)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
 * Exercise E.2.5. code review: 
   * [**E.2.5. solution (from presentation)**](Files/L05_Exercise_2_5.py)
-  * [**"A and B" realization (from presentation)**](Files/L05_how_A_and_B_works.py)
-  * [**"A or B" realization (from presentation)**](Files/L05_how_A_or_B_works.py)
+  * [**"A and B" realization (from presentation)**](Files/L05_How_A_and_B_works.py)
+  * [**"A or B" realization (from presentation)**](Files/L05_How_A_or_B_works.py)
