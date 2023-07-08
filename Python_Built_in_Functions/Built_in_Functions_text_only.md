@@ -98,7 +98,7 @@
 
 ## Group 9 (magenta)
 ### Functions which prepare the code for execution themselves or which execute Python expressions, code.
-|
+|                                                                      |                                                                  |
 |----------------------------------------------------------------------|------------------------------------------------------------------|
 | [`compile()`](https://www.w3schools.com/python/ref_func_compile.asp) | Returns the specified source as an object, ready to be executed. |
 | [`eval()`](https://www.w3schools.com/python/ref_func_eval.asp)       | Evaluates and executes an expression.                            |
