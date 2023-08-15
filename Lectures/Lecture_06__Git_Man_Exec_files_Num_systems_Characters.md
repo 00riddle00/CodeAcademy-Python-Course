@@ -30,6 +30,7 @@
 * Characters: 
   * [ASCII Table](https://www.rapidtables.com/code/text/ascii-table.html)
   * [Control Characters](https://www.geeksforgeeks.org/control-characters/)
+  * [Caret (^) notation for control characters](https://en.wikipedia.org/wiki/Caret_notation)
   * [The Absolute Minimum a Software Developer Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
   * [Unicode Character Table](https://unicode-table.com/en/)
   * [Vim: How to write control characters in file](https://vi.stackexchange.com/questions/24474/vim-how-to-write-control-characters-in-file)
