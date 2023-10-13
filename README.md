@@ -12,6 +12,7 @@
 
 [![Python Crash Course 2nd Edition](https://i.imgur.com/goyOc8E.png)](https://nostarch.com/pythoncrashcourse2e) 
 [![Flask Web Development 2nd Edition](https://i.imgur.com/awulnId.png)](https://learning.oreilly.com/library/view/~/9781491991725/)
+[![Two Scoops of Django 3.x](https://i.imgur.com/jJ3DkLo.png)](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 
 ## Python
 
@@ -85,13 +86,19 @@ user@ubuntu:~$
 
 ## Flask
 
-[![Flask logo](https://i.imgur.com/iBzikd0.png)](https://flask.palletsprojects.com/)
+[![Flask logo](https://i.imgur.com/ixTf9AV.png)](https://flask.palletsprojects.com/)
 
 [Flask](https://flask.palletsprojects.com/) is a lean and awesome 
 [Python web framework](https://wiki.python.org/moin/WebFrameworks) which first came into existence
 on April 1, 2010 as an [April fools joke](http://mitsuhiko.pocoo.org/flask-pycon-2011.pdf).
 
 It seems this just can't get any more serious.
+
+## Django
+
+[![Django logo](https://i.imgur.com/6UZQvYr.png)](https://www.djangoproject.com/)
+
+[Django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
 
 ## [License](LICENSE)
 
