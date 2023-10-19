@@ -100,6 +100,10 @@ It seems this just can't get any more serious.
 
 [Django](https://www.djangoproject.com/) - The web framework for perfectionists with deadlines.
 
+Django aims to follow Python’s 
+["batteries included" philosophy](https://docs.python.org/3/tutorial/stdlib.html#tut-batteries-included).
+It ships with a variety of extra, optional tools that solve common web development problems.
+
 ## [License](LICENSE)
 
 The MIT License (MIT)
