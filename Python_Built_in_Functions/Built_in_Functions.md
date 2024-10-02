@@ -31,7 +31,7 @@
 | [`divmod()`](https://www.w3schools.com/python/ref_func_divmod.asp) | Returns the quotient and the remainder when `argument1` is divided by `argument2`. |
 | [`hex()`](https://www.w3schools.com/python/ref_func_hex.asp)       | Converts a number into a hexadecimal value.                                        |
 | [`oct()`](https://www.w3schools.com/python/ref_func_oct.asp)       | Converts a number into an octal.                                                   |
-| [`ord()`](https://www.w3schools.com/python/ref_func_ord.asp)       | Convert an integer representing the Unicode of the specified character.            |
+| [`ord()`](https://www.w3schools.com/python/ref_func_ord.asp)       | Returns the integer (Unicode code) representing the specified character.           |
 | [`pow()`](https://www.w3schools.com/python/ref_func_pow.asp)       | Returns the value of `x` to the power of `y`.                                      |
 | [`round()`](https://www.w3schools.com/python/ref_func_round.asp)   | Rounds a number.                                                                   |
 <br>
