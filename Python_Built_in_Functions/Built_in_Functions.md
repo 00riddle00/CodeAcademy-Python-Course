@@ -21,8 +21,8 @@
 <br>
 
 ## Group 2 (dark green)
-![](https://i.imgur.com/9m1dj3m.png)
-### Functions whose arguments are one or two numbers (or, in case of chr(), one character) and which return a number or a string corresponding to a number:
+![](https://imgur.com/PUVhNks.png)
+### Functions whose arguments are one or two numbers (or, in case of ord(), one character) and which return a number or a string corresponding to a number:
 |                                                                    |                                                                                    |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [`abs()`](https://www.w3schools.com/python/ref_func_abs.asp)       | Returns the absolute value of a number.                                            |
