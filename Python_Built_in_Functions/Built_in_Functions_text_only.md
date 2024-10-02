@@ -18,7 +18,7 @@
 | [`tuple()`](https://www.w3schools.com/python/ref_func_tuple.asp)           | Returns a tuple.                                                                 |
 
 ## Group 2 (dark green)
-### Functions whose arguments are one or two numbers (or, in case of chr(), one character) and which return a number or a string corresponding to a number.
+### Functions whose arguments are one or two numbers (or, in case of ord(), one character) and which return a number or a string corresponding to a number.
 |                                                                    |                                                                                    |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | [`abs()`](https://www.w3schools.com/python/ref_func_abs.asp)       | Returns the absolute value of a number.                                            |
@@ -27,7 +27,7 @@
 | [`divmod()`](https://www.w3schools.com/python/ref_func_divmod.asp) | Returns the quotient and the remainder when `argument1` is divided by `argument2`. |
 | [`hex()`](https://www.w3schools.com/python/ref_func_hex.asp)       | Converts a number into a hexadecimal value.                                        |
 | [`oct()`](https://www.w3schools.com/python/ref_func_oct.asp)       | Converts a number into an octal.                                                   |
-| [`ord()`](https://www.w3schools.com/python/ref_func_ord.asp)       | Convert an integer representing the Unicode of the specified character.            |
+| [`ord()`](https://www.w3schools.com/python/ref_func_ord.asp)       | Returns the integer (Unicode code) representing the specified character.           |
 | [`pow()`](https://www.w3schools.com/python/ref_func_pow.asp)       | Returns the value of `x` to the power of `y`.                                      |
 | [`round()`](https://www.w3schools.com/python/ref_func_round.asp)   | Rounds a number.                                                                   |
 
