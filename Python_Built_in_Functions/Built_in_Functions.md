@@ -21,7 +21,7 @@
 <br>
 
 ## Group 2 (dark green)
-![](https://i.imgur.com/9m1dj3.png)
+![](https://i.imgur.com/9m1dj3m.png)
 ### Functions whose arguments are one or two numbers (or, in case of chr(), one character) and which return a number or a string corresponding to a number:
 |                                                                    |                                                                                    |
 |--------------------------------------------------------------------|------------------------------------------------------------------------------------|
